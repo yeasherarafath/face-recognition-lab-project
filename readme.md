@@ -88,6 +88,6 @@ q. Quit
 * Save and load trained model to avoid re-training
 * Add GUI interface using Tkinter or PyQt
 * Improve face detection using deep learning
-* Support for more than one face on screen with less processing power
+* Support less processing power consuming feature for multi faces
 
 ---
